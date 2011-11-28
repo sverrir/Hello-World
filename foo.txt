@@ -1,3 +1,5 @@
+Line 1
+Here is something strange
 Line 2
 How about more coffee?
 Line 3
