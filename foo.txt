@@ -1,4 +1,5 @@
 Line 1
+Here is something strange
 Line 2
 Line 3
 
